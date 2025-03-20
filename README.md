@@ -2,7 +2,7 @@
 Restaurant Data Analysis for Sentiment Prediction
 
 #### Business Problem
-Resturants receive thousands of reviews online. Manualllt analyzing these reviews to extract insights is time-consuming and inefficient. Automate the analysis of customer reviews using Natural Language Processing and then classify the reviews as Positive or negative sentiment. This will provide actionable insights to help resturants improve service quality and customer satisfaction.
+Resturants receive thousands of reviews online. Manually analyzing these reviews to extract insights is time-consuming and inefficient. Automate the analysis of customer reviews using Natural Language Processing and then classify the reviews as Positive or negative sentiment. This will provide actionable insights to help resturants improve service quality and customer satisfaction.
 
 #### Text Preprocessing
 1. Tokenization: Split reviews into individual words using NLTK word_tokenizer.
