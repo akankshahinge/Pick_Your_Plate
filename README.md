@@ -1,2 +1,4 @@
 # Pick_Your_Plate
-Restaurant Data Analysis for Sentiment Prediction![image](https://github.com/user-attachments/assets/d4222819-9ff5-4a08-bf60-60ff1e096ad2)
+- Restaurant Data Analysis for Sentiment Prediction
+
+### Business Problem: Resturants receive thousands of reviews online. Manualllt analyzing these reviews to extract insights is time-consuming and inefficient. Automate the analysis of customer reviews using Natural Language Processing and then classify the reviews as Positive or negative sentiment. This will provide actionable insights to help resturants improve service quality and customer satisfaction.
